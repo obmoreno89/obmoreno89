@@ -28,12 +28,12 @@ Hola, soy **Omar Barragán Moreno**, un **Ingeniero en desarrollo de Software** 
 **Sobre mi!**
 
 - 👨🏽‍💻  Actualmente no me encuentro trabajando.
-- 🌱  Actualmente me encuentro desarrollando cursos con la plataforma de platzi, fortaleciendo los lenguajes que aprendi en la universidad.
-- 🤔  Mis intereses son el diseño web y el desarrollo de algunas cosas interesantes y útiles xD.
-- 💼  Actualmente me encuentro desarrollando el idioma de ingles.
+- 🌱  Actualmente soy autodidacta, me encuentro reforzando los lenguajes de programacion que aprendi en la universidad.
+- 🤔  Mi interes es el desarrollo web, quiero especializarme en Frontend claro tambien aprender Backend y ahh... otras cosas tambien que tengan que ver con IT 😊.
+- 💼  Actualmente me encuentro desarrollando el idioma de ingles (A2).
 - 💬  Pregúntame de cualquier cosa, ¡me encanta responder!
 - 📫  Envíeme un correo electrónico a [obmoreno89@gmail.com].
-- 📝  Mira mi [Curriculum Vitae](https://drive.google.com/file/d/1pkzBQrg6J_uGtG25PdLlKhov08hqex0u/view?usp=sharing) para obtener más información.
+- 📝  Mira mi [Curriculum Vitae](PENDIENTE) para obtener más información.
 
 
 **Idiomas y herramientas:**  
