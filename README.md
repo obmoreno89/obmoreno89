@@ -27,9 +27,9 @@ Hola, soy **Omar Barragán Moreno**, un **Ingeniero en desarrollo de Software** 
 
 **Sobre mi!**
 
-- 👨🏽‍💻  Actualmente me encuentro realizando practicas en la empresa Hubmine.
-- 🌱  Actualmente soy autodidacta, me encuentro reforzando los lenguajes de programacion que aprendi en la universidad.
-- 🤔  Mi interes es el desarrollo web, quiero especializarme en Frontend claro tambien aprender Backend y ahh... otras cosas tambien que tengan que ver con IT 😊.
+- 👨🏽‍💻  Actualmente me encuentro trabajando en la empresa Hubmine.
+- 🌱   Soy una persona autodidacta, por lo cual siempre estoy actualizado con los lenguajes que manejo.
+- 🤔  Mi interes es el desarrollo web, es especializarme en Frontend claro tambien aprender Backend y ahh... otras cosas tambien que tengan que ver con IT 😊.
 - 💼  Actualmente me encuentro desarrollando el idioma de ingles (A2).
 - 💬  Pregúntame de cualquier cosa, ¡me encanta responder!
 - 📫  Envíeme un correo electrónico a [obmoreno89@gmail.com].
