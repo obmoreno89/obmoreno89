@@ -32,7 +32,7 @@ Hi!, I'm **Omar Barragán Moreno**, I´m a Software engineer **Ingeniero en desa
 - 🤔  my interest is web developer, it's to specialize in Frontend, of course also learning Backend too, and ahh... learn other things that so will have to do with TI 😊.
 - 🤓  I'm currently learning english (A2). 
 - 📫  You can send me a email at obmoreno89@gmail.com
-- 📝  See my resume (https://1drv.ms/b/s!As2-XQvpljnVrmp53m6rrhXaQQ0T?e=9bty5T) for get more information.
+- 📝  See my portfolio (https://obmoreno89.github.io/portafolio/) for get more information.
 
 **Skills:**  
 
