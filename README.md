@@ -49,13 +49,6 @@ Hi!, I'm **Omar Barragán Moreno**, I´m a Software engineer **Ingeniero en desa
 </code>
 
 
-
-
-
-
-
-<img src="https://github-readme-stats.vercel.app/api?username=obmoreno89&show_icons=true&hide_border=true&count_private=true&theme=shades-of-red&icon_color=fad000" alt="Omar GitHub Stats">
-
   
   
 
