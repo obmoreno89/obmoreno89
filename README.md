@@ -5,7 +5,7 @@
 
 
 -->
-<h3 title="hehehe"> Hey 👋 , Soy Omar!</h3>
+<h3 title="hehehe"> Hi 👋 , I'm Omar!</h3>
 
 <a href="https://www.linkedin.com/in/omar-barragan-moreno-051189">
   <img align="left" alt="Omar_BM" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
@@ -21,22 +21,20 @@
 <img src="https://komarev.com/ghpvc/?username=obmoreno89&color=blue">
 <br />
 
-Hola, soy **Omar Barragán Moreno**, un **Ingeniero en desarrollo de Software**  🚀  de Orizaba, Veracruz.
+Hi!, I'm **Omar Barragán Moreno**, I´m a Software engineer **Ingeniero en desarrollo de Software**  🚀  from Orizaba, Veracruz.
  
   <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
-**Sobre mi!**
+**About me!**
 
-- 👨🏽‍💻  Actualmente me encuentro trabajando en la empresa Hubmine.
-- 🌱   Soy una persona autodidacta, por lo cual siempre estoy actualizado con los lenguajes que manejo.
-- 🤔  Mi interes es el desarrollo web, es especializarme en Frontend claro tambien aprender Backend y ahh... otras cosas tambien que tengan que ver con IT 😊.
-- 💼  Actualmente me encuentro desarrollando el idioma de ingles (A2).
-- 💬  Pregúntame de cualquier cosa, ¡me encanta responder!
-- 📫  Envíeme un correo electrónico a [obmoreno89@gmail.com].
-- 📝  Mira mi [Curriculum Vitae](PENDIENTE) para obtener más información.
+- 👨🏽‍💻  I'm currently working at the Syncronik company.
+- 🌱  I'am a person autodidact, so I'm always updated with the languages I use.
+- 🤔  my interest is web developer, it's to specialize in Frontend, of course also learning Backend too, and ahh... learn other things that so will have to do with TI 😊.
+- 🤓  I'm currently learning english (A2). 
+- 📫  You can send me a email at obmoreno89@gmail.com
+- 📝  See my resume (https://1drv.ms/b/s!As2-XQvpljnVrmp53m6rrhXaQQ0T?e=9bty5T) for get more information.
 
-
-**Idiomas y herramientas:**  
+**Skills:**  
 
 
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
@@ -46,7 +44,8 @@ Hola, soy **Omar Barragán Moreno**, un **Ingeniero en desarrollo de Software** 
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tailwind/tailwind.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tailwind/tailwind.png"><code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png">
+</code>
 
 
 
