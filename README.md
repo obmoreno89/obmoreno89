@@ -21,7 +21,7 @@
 <img src="https://komarev.com/ghpvc/?username=obmoreno89&color=blue">
 <br />
 
-Hi!, I'm **Omar Barragán Moreno**, I´m a Software engineer **Ingeniero en desarrollo de Software**  🚀  from Orizaba, Veracruz.
+Hi!, I'm **Omar Barragán Moreno**, I'm a Software engineer **Ingeniero en desarrollo de Software**  🚀  from Orizaba, Veracruz.
  
   <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
