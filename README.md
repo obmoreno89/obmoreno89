@@ -46,6 +46,6 @@ Hi!, I'm **Omar Barragán Moreno**, I´m a Software engineer **Ingeniero en desa
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tailwind/tailwind.png"><code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png">
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png"></code>
   
-  <img src="https://github-readme-stats.vercel.app/api?username=obmoreno89&show_icons=true&hide_border=true&count_private=true&theme=shades-of-red&icon_color=fad000" alt="Omar GitHub Stats">
+<img src="https://github-readme-stats.vercel.app/api?username=obmoreno89&show_icons=true&hide_border=true&count_private=true&theme=shades-of-red&icon_color=fad000" alt="Omar GitHub Stats">
 
   
