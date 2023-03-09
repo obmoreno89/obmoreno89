@@ -27,7 +27,6 @@ Hi!, I'm **Omar Barragán Moreno**, I'm a **Software engineer**  🚀  from Oriz
 
 **About me!**
 
-- 👨🏽‍💻  I'm currently working at the Syncronik company.
 - 🌱  I'm a person autodidact, so I'm always updated with the languages I use.
 - 🤔  My interest is web developer, it's to specialize in Frontend, of course also learning Backend too, and ahh... learn other things that so will have to do with TI 😊.
 - 🤓  I'm currently learning english (A2). 
