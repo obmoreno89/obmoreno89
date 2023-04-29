@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi!, I'm Omar Barragán Moreno, I'm a Software engineer 🚀 from Mexico.<br><br>About me!<br><br>🔭 I’m currently working on Syncronik consulter<br>🌱 I'm a person autodidact, so I'm always updated with the languages I use.<br>🤔 My interest is web developer, it's to specialize in Frontend, of course also learning Backend too, and ahh... learn other things that so will have to do with TI 😊.<br>🤓 I'm currently learning english (B1).<br>📫 You can send me a email at obmoreno89@gmail.com.<br>📝 See my portfolio (https://obmoreno89.github.io/portafolio/) for get more information.<br>
+Hi!, I'm Omar Barragán Moreno, I'm a Software engineer 🚀 from Mexico.<br><br>About me!<br><br>🔭 I’m currently working on Grupo elektra<br>🌱 I'm a person autodidact, so I'm always updated with the languages I use.<br>🤔 My interest is web developer, it's to specialize in Frontend, of course also learning Backend too, and ahh... learn other things that so will have to do with TI 😊.<br>🤓 I'm currently learning english (B1).<br>📫 You can send me a email at obmoreno89@gmail.com.<br>📝 See my portfolio (https://obmoreno89.github.io/portafolio/) for get more information.<br>
 
 
 ## 🌐 Socials:
